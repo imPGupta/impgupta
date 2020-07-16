@@ -1,10 +1,22 @@
-![](Assets/Welcome.gif)<br>
+<p align="center" >
+          
+![](Assets/Welcome.gif)
+
+</p>
+
 
 <p>
+  
 <img src="https://github.com/imPGupta/impgupta/blob/master/Assets/Hi.gif" width="50" title="hover text">
+  
 I am Prashant Kumar Gupta pursuing my Computer Science and Engineering from [Madan Mohan Malaviya University of Technology, Gorakhpur](http://mmmut.ac.in)
+  
 </p>
-- 🎓 I’m a Computer Science Engineering student at MMMUT, Gorakhpur
+
+## About Me
+
+
+- 🚀 I'm currently a Full Stack Web Developer and a Competitive Programmer
 
 - 🌱 I’m currently learning server side development.
 
@@ -12,14 +24,19 @@ I am Prashant Kumar Gupta pursuing my Computer Science and Engineering from [Mad
 
 - 🤔 I’m looking for help in learning latest technologies.
 
+- 🎓 Campus Ambassador Intern [@Careers360](https://www.careers360.com)
+
+- 👨‍💻 Front end Web developer Intern [@Iniesta Webtech](http://iniestawebtech.com)
+
 - 💬 Ask me about programming languages and web development related stuffs.
 
 - 📫 How to reach me: Just Google - [impgupta](https://www.google.com/search?q=impgupta)
 
-- 😄 Pronouns: **Developer**
+- 😄 Pronouns: **Creative**,**Developer** and **Programmer**
 
 - ⚡ Fun fact: I spent a lot of time with my Lappy.
 
 
-![Prashant's github stats](https://github-readme-stats.vercel.app/api?username=imPGupta&hide=["prs"]&show_icons=true&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=151515)
+
+![Prashant's github stats](https://github-readme-stats.vercel.app/api?username=imPGupta&hide=["contribs","prs"]&show_icons=true&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=151515)
 
