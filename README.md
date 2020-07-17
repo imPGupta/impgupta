@@ -34,8 +34,26 @@
 - ⚡ Fun fact: I spent a lot of time with my Lappy.
 
 
-![Twitter URL](https://img.shields.io/twitter/url?color=%23303030&label=Twitter%20&logoColor=%23303030&style=social&url=https%3A%2F%2Ftwitter.com%2FimPGupta_)
+## Let's Connect 🤝
 
+
+<p style="display:block;margin-block-start: 1em;margin-block-end: 1em;margin-inline-start: 0px;margin-inline-end: 0px;">
+          
+<a href="https://github.com/imPGupta" ><img src="https://img.shields.io/badge/-Github-000?style=flat-square&amp;logo=Github&amp;logoColor=white&amp;link=https://github.com/imPGupta" style="max-width:100%;display:inline;">
+</a>
+          
+<a href="https://www.linkedin.com/in/impgupta/" rel="nofollow"><img src="https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&amp;logo=Linkedin&amp;logoColor=white&amp;link=https://www.linkedin.com/in/lucas-impgupta/" style="max-width:100%;display:inline;"></a>
+
+
+<a href="https://stackoverflow.com/users/13064168/impgupta" rel="nofollow"><img alt="Stackoverflow Badge" src="https://img.shields.io/badge/-Stackoverflow-4CA143?style=flat-square&amp;logo=Stackoverflow&amp;logoColor=white&amp;link=https://stackoverflow.com/users/13064168/impgupta" style="max-width:100%;"></a>
+
+<a href="https://twitter.com/imPGupta_" rel="nofollow"><img  alt="Twitter Badge" src="https://img.shields.io/badge/-Twitter-1ca0f1?style=flat-square&amp;labelColor=1ca0f1&amp;logo=twitter&amp;logoColor=white&amp;link=https://twitter.com/imPGupta_" style="max-width:100%;"></a>
+
+<a href="https://api.whatsapp.com/send?phone=8917793044&amp;" rel="nofollow"><img alt="Whatsapp Badge" src="https://img.shields.io/badge/-Whatsapp-4CA143?style=flat-square&amp;labelColor=4CA143&amp;logo=whatsapp&amp;logoColor=white&amp;link=https://api.whatsapp.com/send?phone=8917793044&amp;text=Ol%C3%A1!" style="max-width:100%;"></a>
+
+<a href="mailto:prashantkgupta17@gmail.com"><img alt="Gmail Badge" src="https://img.shields.io/badge/-Gmail-c14438?style=flat-square&amp;logo=Gmail&amp;logoColor=white&amp;link=mailto:prashantkgupta17@gmail.com" style="max-width:100%;"></a>
+
+</p>
 
 ![Prashant's github stats](https://github-readme-stats.vercel.app/api?username=imPGupta&hide=["contribs","prs"]&show_icons=true&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=151515)
 
