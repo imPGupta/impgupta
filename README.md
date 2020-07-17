@@ -1,9 +1,8 @@
-
+<p align="center" >
           
+<img src="https://github.com/imPGupta/impgupta/blob/master/Assets/Welcome.gif" width="30%" >
 
-<img src="https://github.com/imPGupta/impgupta/blob/master/Assets/Welcome.gif" style="margin-right:auto">
-
-
+</p>
 
 <p>
   
