@@ -6,7 +6,8 @@
 
 <p>
   
-<img src="https://github.com/imPGupta/impgupta/blob/master/Assets/Hi.gif" width="30" style="display: inline-block;"> I am Prashant Kumar Gupta pursuing my Computer Science and Engineering from [Madan Mohan Malaviya University of Technology, Gorakhpur](http://mmmut.ac.in)
+#### <img src="https://github.com/imPGupta/impgupta/blob/master/Assets/Hi.gif" width="30" style="display: inline-block;"> Thanks for visiting my GitHub profile, it's great to see you! 😇
+I am Prashant Kumar Gupta pursuing my Computer Science and Engineering from [Madan Mohan Malaviya University of Technology, Gorakhpur](http://mmmut.ac.in)
   
 </p>
 
