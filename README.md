@@ -34,6 +34,8 @@
 - ⚡ Fun fact: I spent a lot of time with my Lappy.
 
 
+![Twitter URL](https://img.shields.io/twitter/url?color=%23303030&label=Twitter%20&logoColor=%23303030&style=social&url=https%3A%2F%2Ftwitter.com%2FimPGupta_)
+
 
 ![Prashant's github stats](https://github-readme-stats.vercel.app/api?username=imPGupta&hide=["contribs","prs"]&show_icons=true&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=151515)
 
