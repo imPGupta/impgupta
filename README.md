@@ -34,8 +34,8 @@
 - ⚡ Fun fact: I spent a lot of time with my Lappy.
 
 
-## Let's Connect 🤝
-
+## Let's Connect <img src="https://github.com/imPGupta/impgupta/blob/master/Assets/let's%20meet.gif" alt="meet" width="8%">
+<br>
 
 <a href="https://twitter.com/imPGupta_">
   <img align="left" alt="Prashant's Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />
