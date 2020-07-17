@@ -1,15 +1,13 @@
-<p align="center" >
-          
-![](Assets/Welcome.gif)
 
-</p>
+          
+
+<img src="https://github.com/imPGupta/impgupta/blob/master/Assets/Welcome.gif" style="margin-right:auto">
+
 
 
 <p>
   
-<img src="https://github.com/imPGupta/impgupta/blob/master/Assets/Hi.gif" width="50" title="hover text">
-  
-I am Prashant Kumar Gupta pursuing my Computer Science and Engineering from [Madan Mohan Malaviya University of Technology, Gorakhpur](http://mmmut.ac.in)
+<img src="https://github.com/imPGupta/impgupta/blob/master/Assets/Hi.gif" width="30" style="display: inline-block;"> I am Prashant Kumar Gupta pursuing my Computer Science and Engineering from [Madan Mohan Malaviya University of Technology, Gorakhpur](http://mmmut.ac.in)
   
 </p>
 
