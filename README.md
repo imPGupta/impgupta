@@ -54,6 +54,10 @@ I am Prashant Kumar Gupta pursuing my Computer Science and Engineering from [Mad
   <img align="left" alt="Prashant's StackOverflow" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/gmail.svg" />
 </a>
 
+<a href="https://wa.me/918917793044?text=Namaste!!!">
+  <img align="left" alt="Prashant's WhatsApp" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/whatsapp.svg" />
+</a>
+
 <br>
 <br>
 
