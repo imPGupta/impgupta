@@ -60,6 +60,10 @@
 
 ![Hits](https://hitcounter.pythonanywhere.com/count/tag.svg?url=https%3A%2F%2Fgithub.com%2FimPGupta)
 
+          
+![Prashant's github stats](https://github-readme-stats.vercel.app/api?username=imPGupta&count_private=true&show_icons=true&icon_color=79ff97&bg_color=30,e96443,904e95&title_color=fff&text_color=fff)
 
-![Prashant's github stats](https://github-readme-stats.vercel.app/api?username=imPGupta&count_private=true&show_icons=true&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=151515)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=imPGupta)](https://github.com/imPGupta/github-readme-stats)
+
+
 
