@@ -60,9 +60,9 @@
 
 ![Hits](https://hitcounter.pythonanywhere.com/count/tag.svg?url=https%3A%2F%2Fgithub.com%2FimPGupta)
 
-<img align="left" alt="Prashant's github stats" 
+<img align="left" width="417px" alt="Prashant's github stats" 
 src="https://github-readme-stats.vercel.app/api?username=imPGupta&count_private=true&show_icons=true&icon_color=79ff97&bg_color=30,e96443,904e95&title_color=fff&text_color=fff">
     
-<img align="left" width="300px" alt="Top Langs" src="https://github-readme-stats.vercel.app/api/top-langs/?username=imPGupta&layout=compact">
+<img align="left" width="350px" alt="Top Langs" src="https://github-readme-stats.vercel.app/api/top-langs/?username=imPGupta&layout=compact">
 
 
