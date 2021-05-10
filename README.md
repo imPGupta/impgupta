@@ -63,6 +63,10 @@
 <img align="left" width="417px" alt="Prashant's github stats" 
 src="https://github-readme-stats.vercel.app/api?username=imPGupta&count_private=true&show_icons=true&icon_color=79ff97&bg_color=30,e96443,904e95&title_color=fff&text_color=fff">
     
-<img align="left" width="350px" alt="Top Langs" src="https://github-readme-stats.vercel.app/api/top-langs/?username=imPGupta&layout=compact">
+<img align="left" width="350px" alt="Top Langs" src="https://github-readme-stats.vercel.app/api/top-langs/?username=imPGupta&layout=compact"><br>
+<br>
+
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=imPGupta" alt="impgupta" /></a> </p>
 
 
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=imPGupta&" alt="imPGupta" /></p>
